@@ -1,0 +1,39 @@
+{
+    "dna": "9f0dcb238a9eb100d41ac86d811420e8bc577d2f",
+    "name": "#4",
+    "description": "Dabunny is an NFT Project",
+    "image": "ipfs://NewUriToReplace/4.png",
+    "edition": 3,
+    "date": 1634624045408,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "trippy_pink"
+      },
+      {
+        "trait_type": "tail",
+        "value": "snowball"
+      },
+      {
+        "trait_type": "body",
+        "value": "adult_v-necked_gloveless_grey"
+      },
+      {
+        "trait_type": "face",
+        "value": "bored"
+      },
+      {
+        "trait_type": "clothes",
+        "value": "blue_boxer"
+      },
+      {
+        "trait_type": "head-gear",
+        "value": "devil_horns"
+      },
+      {
+        "trait_type": "objects",
+        "value": "bomb"
+      }
+    ],
+    "compiler": "Tuneup, LLC"
+  }
